@@ -1,9 +1,11 @@
+![github cover](https://user-images.githubusercontent.com/112426243/197120845-88a68077-06c1-4033-aca7-0d7e01775fde.jpg)
+
 <h1 align="center">Hi 👋, I'm Priyadarshni Jha - Welcome to my Github!</h1>
 <h3 align="center">A sophomore from Jalpaiguri Government Engineering College.</h3>
 
 - 👨‍💻 I'm majoring in **Information Technology.**
 
-- 🌱 I’m currently learning **Web Development(Frontend), DSA.**
+- 🌱 I’m currently learning **Web Development, DSA.**
 
 - 👀 I'm an **enthusiastic learner.**
 
