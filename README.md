@@ -37,8 +37,8 @@
 <br>
   <h3>📶 Github Analytics</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyadarshni-jha&show_icons=true&locale=en&layout=compact" alt="priyadarshni-jha" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyadarshni-jha&show_icons=true&locale=en&layout=compact" alt="priyadarshni-jha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyadarshni-jha&show_icons=true&locale=en" alt="priyadarshni-jha" /></p>
+<p align="center"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=priyadarshni-jha&show_icons=true&locale=en" alt="priyadarshni-jha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadarshni-jha&" alt="priyadarshni-jha" /></p>
+<p align="center"><img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadarshni-jha&" alt="priyadarshni-jha" /></p>
